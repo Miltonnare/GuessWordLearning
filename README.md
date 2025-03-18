@@ -48,7 +48,7 @@ Open a terminal or command prompt in the project directory.
 
 Run the following command:
 
-python student_management.py
+python simple.py
 
 Follow the on-screen menu options to interact with the system.
 
